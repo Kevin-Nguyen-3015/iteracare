@@ -1,0 +1,10 @@
+/vendor
+/node_modules
+/.env
+/.env.example
+/storage/*.key
+/storage/oauth-private.key
+/storage/oauth-public.key
+/bootstrap/cache
+/database/database.sqlite
+/public/storage
